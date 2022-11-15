@@ -52,3 +52,15 @@ if output == "Nilai Saham":
             st.markdown("<h6 style='text-align: center; '>Emiten tidak ditemukan</h6>", unsafe_allow_html=True)
 
 
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
