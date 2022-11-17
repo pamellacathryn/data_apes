@@ -3,13 +3,11 @@ import altair as alt
 import plotly.express as px
 import yfinance as yf
 from pandas_datareader import data
-import functions as fun
 import datetime
 from streamlit_option_menu import option_menu
 from warnings import simplefilter
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
 from sklearn.linear_model import LinearRegression
 from statsmodels.tsa.deterministic import CalendarFourier, DeterministicProcess
 from sklearn.metrics import mean_squared_error
@@ -91,6 +89,39 @@ if select == "Main":
                 kol2.markdown(f"<div style='text-align: justify;'>{symbol.get('longBusinessSummary')}</div>", unsafe_allow_html=True)
                 st.write("")
 
+                def get_chart(data):
+                    data["Close"] = round(data["Close"], 2)
+                    hover = alt.selection_single(
+                        fields=["Date"],
+                        nearest=True,
+                        on="mouseover",
+                        empty="none",
+                    )
+                    lines = (
+                        alt.Chart(data)
+                        .mark_line()
+                        .encode(
+                            x="Date",
+                            y=alt.Y("Close", title="Close"),
+                        )
+                    )
+                    points = lines.transform_filter(hover).mark_circle(size=65)
+                    tooltips = (
+                        alt.Chart(data)
+                        .mark_rule()
+                        .encode(
+                            x="Date",
+                            y="Close",
+                            opacity=alt.condition(hover, alt.value(0.3), alt.value(0)),
+                            tooltip=[
+                                alt.Tooltip("Date", title="Date"),
+                                alt.Tooltip("Close", title="Close"),
+                            ],
+                        )
+                        .add_selection(hover)
+                    )
+                    return (lines + points + tooltips).interactive()
+                
                 if profil == "Jangka Pendek":
                     st.markdown(f"<h4 style='text-align: center; '>Stock Price of {emiten}</h4>",
                                 unsafe_allow_html=True)
@@ -103,7 +134,7 @@ if select == "Main":
                         "End Date:")
                     data = data.DataReader(emiten, start=start, end=end, data_source=source).reset_index()
                     # st.write(data)
-                    chart = fun.get_chart(data)
+                    chart = get_chart(data)
                     col1.altair_chart(
                         (chart).interactive(),
                         use_container_width=True)
