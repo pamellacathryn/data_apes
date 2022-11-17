@@ -10,3 +10,4 @@ plotly==5.9.0
 streamlit-option-menu==0.3.2
 statsmodels==0.13.2
 yfinance==0.1.86
+scikit-learn==0.24.1
