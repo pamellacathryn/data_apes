@@ -1,0 +1,800 @@
+Kode,Nama Perusahaan,Tipe,Currency
+AKPI.JK,Argha Karya Prima Industry Tbk,Basic Materials,IDR
+ALDO.JK,Alkindo Naratama Tbk.,Basic Materials,IDR
+ALKA.JK,Alakasa Industrindo Tbk,Basic Materials,IDR
+ALMI.JK,Alumindo Light Metal Industry ,Basic Materials,USD
+ANTM.JK,Aneka Tambang Tbk.,Basic Materials,IDR
+APLI.JK,Asiaplast Industries Tbk.,Basic Materials,IDR
+BAJA.JK,Saranacentral Bajatama Tbk.,Basic Materials,IDR
+BMSR.JK,Bintang Mitra Semestaraya Tbk,Basic Materials,IDR
+ADMG.JK,Polychem Indonesia Tbk,Basic Materials,USD
+AGII.JK,Aneka Gas Industri Tbk.,Basic Materials,IDR
+BRMS.JK,Bumi Resources Minerals Tbk.,Basic Materials,USD
+BRNA.JK,Berlina Tbk.,Basic Materials,IDR
+BRPT.JK,Barito Pacific Tbk.,Basic Materials,USD
+CITA.JK,Cita Mineral Investindo Tbk.,Basic Materials,IDR
+CLPI.JK,Colorpak Indonesia Tbk.,Basic Materials,IDR
+CTBN.JK,Citra Tubindo Tbk.,Basic Materials,USD
+DKFT.JK,Central Omega Resources Tbk.,Basic Materials,IDR
+DPNS.JK,Duta Pertiwi Nusantara Tbk.,Basic Materials,IDR
+EKAD.JK,Ekadharma International Tbk.,Basic Materials,IDR
+ESSA.JK,Surya Esa Perkasa Tbk.,Basic Materials,USD
+FASW.JK,Fajar Surya Wisesa Tbk.,Basic Materials,IDR
+FPNI.JK,Lotte Chemical Titan Tbk.,Basic Materials,USD
+GDST.JK,Gunawan Dianjaya Steel Tbk.,Basic Materials,IDR
+IGAR.JK,Champion Pacific Indonesia Tbk,Basic Materials,IDR
+INKP.JK,Indah Kiat Pulp & Paper Tbk.,Basic Materials,USD
+INRU.JK,Toba Pulp Lestari Tbk.,Basic Materials,USD
+INTD.JK,Inter Delta Tbk,Basic Materials,IDR
+INTP.JK,Indocement Tunggal Prakarsa Tb,Basic Materials,IDR
+IPOL.JK,Indopoly Swakarsa Industry Tbk,Basic Materials,USD
+ISSP.JK,Steel Pipe Industry of Indones,Basic Materials,IDR
+JKSW.JK,Jakarta Kyoei Steel Works Tbk.,Basic Materials,IDR
+KDSI.JK,Kedawung Setia Industrial Tbk.,Basic Materials,IDR
+KRAS.JK,Krakatau Steel (Persero) Tbk.,Basic Materials,USD
+LMSH.JK,Lionmesh Prima Tbk.,Basic Materials,IDR
+LTLS.JK,Lautan Luas Tbk.,Basic Materials,IDR
+MDKA.JK,Merdeka Copper Gold Tbk.,Basic Materials,USD
+NIKL.JK,Pelat Timah Nusantara Tbk.,Basic Materials,USD
+OKAS.JK,Ancora Indonesia Resources Tbk,Basic Materials,USD
+PICO.JK,Pelangi Indah Canindo Tbk,Basic Materials,IDR
+PSAB.JK,J Resources Asia Pasifik Tbk.,Basic Materials,USD
+SIMA.JK,Siwani Makmur Tbk,Basic Materials,IDR
+SMBR.JK,Semen Baturaja (Persero) Tbk.,Basic Materials,IDR
+SMCB.JK,Solusi Bangun Indonesia Tbk.,Basic Materials,IDR
+SMGR.JK,Semen Indonesia (Persero) Tbk.,Basic Materials,IDR
+SPMA.JK,Suparma Tbk.,Basic Materials,IDR
+SQMI.JK,Wilton Makmur Indonesia Tbk.,Basic Materials,IDR
+SRSN.JK,Indo Acidatama Tbk,Basic Materials,IDR
+SULI.JK,SLJ Global Tbk.,Basic Materials,USD
+TALF.JK,Tunas Alfin Tbk.,Basic Materials,IDR
+TBMS.JK,Tembaga Mulia Semanan Tbk.,Basic Materials,USD
+TKIM.JK,Pabrik Kertas Tjiwi Kimia Tbk.,Basic Materials,USD
+TPIA.JK,Chandra Asri Petrochemical Tbk,Basic Materials,USD
+TRST.JK,Trias Sentosa Tbk.,Basic Materials,IDR
+UNIC.JK,Unggul Indah Cahaya Tbk.,Basic Materials,USD
+INCF.JK,Indo Komoditi Korpora Tbk.,Basic Materials,IDR
+WSBP.JK,Waskita Beton Precast Tbk.,Basic Materials,IDR
+KMTR.JK,Kirana Megatara Tbk.,Basic Materials,IDR
+MDKI.JK,Emdeki Utama Tbk.,Basic Materials,IDR
+ZINC.JK,Kapuas Prima Coal Tbk.,Basic Materials,IDR
+PBID.JK,Panca Budi Idaman Tbk.,Basic Materials,IDR
+TDPM.JK,Tridomain Performance Material,Basic Materials,USD
+SWAT.JK,Sriwahana Adityakarta Tbk.,Basic Materials,IDR
+MOLI.JK,Madusari Murni Indah Tbk.,Basic Materials,IDR
+HKMU.JK,HK Metals Utama Tbk.,Basic Materials,IDR
+KAYU.JK,Darmi Bersaudara Tbk.,Basic Materials,IDR
+SMKL.JK,Satyamitra Kemas Lestari Tbk.,Basic Materials,IDR
+GGRP.JK,Gunung Raja Paksi Tbk.,Basic Materials,USD
+OPMS.JK,Optima Prima Metal Sinergi Tbk,Basic Materials,IDR
+PURE.JK,Trinitan Metals and Minerals T,Basic Materials,IDR
+ESIP.JK,Sinergi Inti Plastindo Tbk.,Basic Materials,IDR
+IFSH.JK,Ifishdeco Tbk.,Basic Materials,IDR
+IFII.JK,Indonesia Fibreboard Industry ,Basic Materials,IDR
+AYLS.JK,Agro Yasa Lestari Tbk.,Basic Materials,IDR
+SAMF.JK,Saraswanti Anugerah Makmur Tbk,Basic Materials,IDR
+EPAC.JK,Megalestari Epack Sentosaraya ,Basic Materials,IDR
+PNGO.JK,Pinago Utama Tbk.,Basic Materials,IDR
+BEBS.JK,Berkah Beton Sadaya Tbk.,Basic Materials,IDR
+NPGF.JK,Nusa Palapa Gemilang Tbk.,Basic Materials,IDR
+ARCI.JK,Archi Indonesia Tbk.,Basic Materials,USD
+NICL.JK,PAM Mineral Tbk.,Basic Materials,IDR
+TINS.JK,Timah Tbk.,Basic Materials,IDR
+TIRT.JK,Tirta Mahakam Resources Tbk,Basic Materials,IDR
+BTON.JK,Betonjaya Manunggal Tbk.,Basic Materials,IDR
+SBMA.JK,Surya Biru Murni Acetylene Tbk,Basic Materials,IDR
+CMNT.JK,Cemindo Gemilang Tbk.,Basic Materials,IDR
+WTON.JK,Wijaya Karya Beton Tbk.,Basic Materials,IDR
+YPAS.JK,Yanaprima Hastapersada Tbk,Basic Materials,IDR
+INAI.JK,Indal Aluminium Industry Tbk.,Basic Materials,IDR
+INCI.JK,Intanwijaya Internasional Tbk,Basic Materials,IDR
+INCO.JK,Vale Indonesia Tbk.,Basic Materials,USD
+AVIA.JK,Avia Avian Tbk.,Basic Materials,IDR
+KBRI.JK,Kertas Basuki Rachmat Indonesi,Basic Materials,IDR
+CHEM.JK,Chemstar Indonesia Tbk.,Basic Materials,IDR
+KKES.JK,Kusuma Kemindo Sentosa Tbk.,Basic Materials,IDR
+AKKU.JK,Anugerah Kagum Karya Utama Tbk,Consumer Cyclicals,IDR
+ARGO.JK,Argo Pantes Tbk,Consumer Cyclicals,IDR
+ARTA.JK,Arthavest Tbk,Consumer Cyclicals,IDR
+BATA.JK,Sepatu Bata Tbk.,Consumer Cyclicals,IDR
+BAYU.JK,Bayu Buana Tbk,Consumer Cyclicals,IDR
+BIMA.JK,Primarindo Asia Infrastructure,Consumer Cyclicals,IDR
+BLTZ.JK,Graha Layar Prima Tbk.,Consumer Cyclicals,IDR
+BOLT.JK,Garuda Metalindo Tbk.,Consumer Cyclicals,IDR
+BRAM.JK,Indo Kordsa Tbk.,Consumer Cyclicals,USD
+ABBA.JK,Mahaka Media Tbk.,Consumer Cyclicals,IDR
+ACES.JK,Ace Hardware Indonesia Tbk.,Consumer Cyclicals,IDR
+BUVA.JK,Bukit Uluwatu Villa Tbk.,Consumer Cyclicals,IDR
+CINT.JK,Chitose Internasional Tbk.,Consumer Cyclicals,IDR
+CNTX.JK,Century Textile Industry Tbk.,Consumer Cyclicals,USD
+CSAP.JK,Catur Sentosa Adiprana Tbk.,Consumer Cyclicals,IDR
+ECII.JK,Electronic City Indonesia Tbk.,Consumer Cyclicals,IDR
+ERAA.JK,Erajaya Swasembada Tbk.,Consumer Cyclicals,IDR
+ERTX.JK,Eratex Djaja Tbk.,Consumer Cyclicals,USD
+ESTI.JK,Ever Shine Tex Tbk.,Consumer Cyclicals,USD
+FAST.JK,Fast Food Indonesia Tbk.,Consumer Cyclicals,IDR
+FORU.JK,Fortune Indonesia Tbk,Consumer Cyclicals,IDR
+GDYR.JK,Goodyear Indonesia Tbk.,Consumer Cyclicals,USD
+GEMA.JK,Gema Grahasarana Tbk.,Consumer Cyclicals,IDR
+GJTL.JK,Gajah Tunggal Tbk.,Consumer Cyclicals,IDR
+GLOB.JK,Globe Kita Terang Tbk.,Consumer Cyclicals,IDR
+HOME.JK,Hotel Mandarine Regency Tbk.,Consumer Cyclicals,IDR
+HOTL.JK,Saraswati Griya Lestari Tbk.,Consumer Cyclicals,IDR
+IIKP.JK,Inti Agri Resources Tbk,Consumer Cyclicals,IDR
+IKAI.JK,Intikeramik Alamasri Industri ,Consumer Cyclicals,IDR
+IMAS.JK,Indomobil Sukses Internasional,Consumer Cyclicals,IDR
+INDS.JK,Indospring Tbk.,Consumer Cyclicals,IDR
+JIHD.JK,Jakarta International Hotels &,Consumer Cyclicals,IDR
+KICI.JK,Kedaung Indah Can Tbk,Consumer Cyclicals,IDR
+KPIG.JK,MNC Land Tbk.,Consumer Cyclicals,IDR
+LMPI.JK,Langgeng Makmur Industri Tbk.,Consumer Cyclicals,IDR
+LPIN.JK,Multi Prima Sejahtera Tbk,Consumer Cyclicals,IDR
+LPPF.JK,Matahari Department Store Tbk.,Consumer Cyclicals,IDR
+MAMI.JK,Mas Murni Indonesia Tbk,Consumer Cyclicals,IDR
+MAPI.JK,Mitra Adiperkasa Tbk.,Consumer Cyclicals,IDR
+MASA.JK,Multistrada Arah Sarana Tbk.,Consumer Cyclicals,USD
+MDIA.JK,Intermedia Capital Tbk.,Consumer Cyclicals,IDR
+MICE.JK,Multi Indocitra Tbk.,Consumer Cyclicals,IDR
+MNCN.JK,Media Nusantara Citra Tbk.,Consumer Cyclicals,IDR
+MPMX.JK,Mitra Pinasthika Mustika Tbk.,Consumer Cyclicals,IDR
+MSKY.JK,MNC Sky Vision Tbk.,Consumer Cyclicals,IDR
+MYTX.JK,Asia Pacific Investama Tbk.,Consumer Cyclicals,IDR
+PANR.JK,Panorama Sentrawisata Tbk.,Consumer Cyclicals,IDR
+PBRX.JK,Pan Brothers Tbk.,Consumer Cyclicals,USD
+PDES.JK,Destinasi Tirta Nusantara Tbk,Consumer Cyclicals,IDR
+PGLI.JK,Pembangunan Graha Lestari Inda,Consumer Cyclicals,IDR
+PJAA.JK,Pembangunan Jaya Ancol Tbk.,Consumer Cyclicals,IDR
+PNSE.JK,Pudjiadi & Sons Tbk.,Consumer Cyclicals,IDR
+POLY.JK,Asia Pacific Fibers Tbk,Consumer Cyclicals,USD
+PRAS.JK,Prima Alloy Steel Universal Tb,Consumer Cyclicals,IDR
+PSKT.JK,Red Planet Indonesia Tbk.,Consumer Cyclicals,IDR
+PTSP.JK,Pioneerindo Gourmet Internatio,Consumer Cyclicals,IDR
+RALS.JK,Ramayana Lestari Sentosa Tbk.,Consumer Cyclicals,IDR
+RICY.JK,Ricky Putra Globalindo Tbk,Consumer Cyclicals,IDR
+SCMA.JK,Surya Citra Media Tbk.,Consumer Cyclicals,IDR
+SHID.JK,Hotel Sahid Jaya International,Consumer Cyclicals,IDR
+SMSM.JK,Selamat Sempurna Tbk.,Consumer Cyclicals,IDR
+SONA.JK,Sona Topas Tourism Industry Tb,Consumer Cyclicals,IDR
+SRIL.JK,Sri Rejeki Isman Tbk.,Consumer Cyclicals,USD
+SSTM.JK,Sunson Textile Manufacture Tbk,Consumer Cyclicals,IDR
+TMPO.JK,Tempo Intimedia Tbk.,Consumer Cyclicals,IDR
+TRIS.JK,Trisula International Tbk.,Consumer Cyclicals,IDR
+TURI.JK,Tunas Ridean Tbk.,Consumer Cyclicals,IDR
+UNIT.JK,Nusantara Inti Corpora Tbk,Consumer Cyclicals,IDR
+VIVA.JK,Visi Media Asia Tbk.,Consumer Cyclicals,IDR
+JGLE.JK,Graha Andrasentra Propertindo ,Consumer Cyclicals,IDR
+BOGA.JK,Bintang Oto Global Tbk.,Consumer Cyclicals,IDR
+MAPB.JK,MAP Boga Adiperkasa Tbk.,Consumer Cyclicals,IDR
+WOOD.JK,Integra Indocabinet Tbk.,Consumer Cyclicals,IDR
+HRTA.JK,Hartadinata Abadi Tbk.,Consumer Cyclicals,IDR
+MABA.JK,Marga Abhinaya Abadi Tbk.,Consumer Cyclicals,IDR
+NASA.JK,Andalan Perkasa Abadi Tbk.,Consumer Cyclicals,IDR
+BELL.JK,Trisula Textile Industries Tbk,Consumer Cyclicals,IDR
+DFAM.JK,Dafam Property Indonesia Tbk.,Consumer Cyclicals,IDR
+PZZA.JK,Sarimelati Kencana Tbk.,Consumer Cyclicals,IDR
+MSIN.JK,MNC Digital Entertainment Tbk.,Consumer Cyclicals,IDR
+MAPA.JK,Map Aktif Adiperkasa Tbk.,Consumer Cyclicals,IDR
+NUSA.JK,Sinergi Megah Internusa Tbk.,Consumer Cyclicals,IDR
+FILM.JK,MD Pictures Tbk.,Consumer Cyclicals,IDR
+DIGI.JK,Arkadia Digital Media Tbk.,Consumer Cyclicals,IDR
+DUCK.JK,Jaya Bersama Indo Tbk.,Consumer Cyclicals,IDR
+YELO.JK,Yelooo Integra Datanet Tbk.,Consumer Cyclicals,IDR
+SOTS.JK,Satria Mega Kencana Tbk.,Consumer Cyclicals,IDR
+ZONE.JK,Mega Perintis Tbk.,Consumer Cyclicals,IDR
+CLAY.JK,Citra Putra Realty Tbk.,Consumer Cyclicals,IDR
+NATO.JK,Surya Permata Andalan Tbk.,Consumer Cyclicals,IDR
+HRME.JK,Menteng Heritage Realty Tbk.,Consumer Cyclicals,IDR
+FITT.JK,Hotel Fitra International Tbk.,Consumer Cyclicals,IDR
+BOLA.JK,Bali Bintang Sejahtera Tbk.,Consumer Cyclicals,IDR
+POLU.JK,Golden Flower Tbk.,Consumer Cyclicals,IDR
+IPTV.JK,MNC Vision Networks Tbk.,Consumer Cyclicals,IDR
+EAST.JK,Eastparc Hotel Tbk.,Consumer Cyclicals,IDR
+INOV.JK,Inocycle Technology Group Tbk.,Consumer Cyclicals,IDR
+SLIS.JK,Gaya Abadi Sempurna Tbk.,Consumer Cyclicals,IDR
+PMJS.JK,Putra Mandiri Jembar Tbk.,Consumer Cyclicals,IDR
+ESTA.JK,Esta Multi Usaha Tbk.,Consumer Cyclicals,IDR
+SBAT.JK,Sejahtera Bintang Abadi Textil,Consumer Cyclicals,IDR
+CBMF.JK,Cahaya Bintang Medan Tbk.,Consumer Cyclicals,IDR
+CSMI.JK,Cipta Selera Murni Tbk.,Consumer Cyclicals,IDR
+UANG.JK,Pakuan Tbk.,Consumer Cyclicals,IDR
+SOFA.JK,Boston Furniture Industries Tb,Consumer Cyclicals,IDR
+TOYS.JK,Sunindo Adipersada Tbk.,Consumer Cyclicals,IDR
+SCNP.JK,Selaras Citra Nusantara Perkas,Consumer Cyclicals,IDR
+PLAN.JK,Planet Properindo Jaya Tbk.,Consumer Cyclicals,IDR
+UFOE.JK,Damai Sejahtera Abadi Tbk.,Consumer Cyclicals,IDR
+SNLK.JK,Sunter Lakeside Hotel Tbk.,Consumer Cyclicals,IDR
+LFLO.JK,Imago Mulia Persada Tbk.,Consumer Cyclicals,IDR
+MGLV.JK,Panca Anugrah Wisesa Tbk.,Consumer Cyclicals,IDR
+TELE.JK,Omni Inovasi Indonesia Tbk.,Consumer Cyclicals,IDR
+TFCO.JK,Tifico Fiber Indonesia Tbk.,Consumer Cyclicals,USD
+IDEA.JK,Idea Indonesia Akademi Tbk.,Consumer Cyclicals,IDR
+DEPO.JK,Caturkarda Depo Bangunan Tbk.,Consumer Cyclicals,IDR
+CARS.JK,Industri dan Perdagangan Bintr,Consumer Cyclicals,IDR
+MINA.JK,Sanurhasta Mitra Tbk.,Consumer Cyclicals,IDR
+INDR.JK,Indo-Rama Synthetics Tbk.,Consumer Cyclicals,USD
+DRMA.JK,Dharma Polimetal Tbk.,Consumer Cyclicals,IDR
+ASLC.JK,Autopedia Sukses Lestari Tbk.,Consumer Cyclicals,IDR
+NETV.JK,Net Visi Media Tbk.,Consumer Cyclicals,IDR
+ENAK.JK,Champ Resto Indonesia Tbk.,Consumer Cyclicals,IDR
+BIKE.JK,Sepeda Bersama Indonesia Tbk.,Consumer Cyclicals,IDR
+JSPT.JK,Jakarta Setiabudi Internasiona,Consumer Cyclicals,IDR
+OLIV.JK,Oscar Mitra Sukses Sejahtera T,Consumer Cyclicals,IDR
+AUTO.JK,Astra Otoparts Tbk.,Consumer Cyclicals,IDR
+MARI.JK,Mahaka Radio Integra Tbk.,Consumer Cyclicals,IDR
+MKNT.JK,Mitra Komunikasi Nusantara Tbk,Consumer Cyclicals,IDR
+RAFI.JK,Sari Kreasi Boga Tbk.,Consumer Cyclicals,IDR
+KLIN.JK,Klinko Karya Imaji Tbk.,Consumer Cyclicals,IDR
+TOOL.JK,Rohartindo Nusantara Luas Tbk.,Consumer Cyclicals,IDR
+AISA.JK,FKS Food Sejahtera Tbk.,Consumer Non-Cyclicals,IDR
+ALTO.JK,Tri Banyan Tirta Tbk.,Consumer Non-Cyclicals,IDR
+AMRT.JK,Sumber Alfaria Trijaya Tbk.,Consumer Non-Cyclicals,IDR
+ANJT.JK,Austindo Nusantara Jaya Tbk.,Consumer Non-Cyclicals,USD
+BISI.JK,BISI International Tbk.,Consumer Non-Cyclicals,IDR
+AALI.JK,Astra Agro Lestari Tbk.,Consumer Non-Cyclicals,IDR
+ADES.JK,Akasha Wira International Tbk.,Consumer Non-Cyclicals,IDR
+BWPT.JK,Eagle High Plantations Tbk.,Consumer Non-Cyclicals,IDR
+CEKA.JK,Wilmar Cahaya Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+CPIN.JK,Charoen Pokphand Indonesia Tbk,Consumer Non-Cyclicals,IDR
+CPRO.JK,Central Proteina Prima Tbk.,Consumer Non-Cyclicals,IDR
+DLTA.JK,Delta Djakarta Tbk.,Consumer Non-Cyclicals,IDR
+DSFI.JK,Dharma Samudera Fishing Indust,Consumer Non-Cyclicals,IDR
+DSNG.JK,Dharma Satya Nusantara Tbk.,Consumer Non-Cyclicals,IDR
+EPMT.JK,Enseval Putera Megatrading Tbk,Consumer Non-Cyclicals,IDR
+FISH.JK,FKS Multi Agro Tbk.,Consumer Non-Cyclicals,USD
+GGRM.JK,Gudang Garam Tbk.,Consumer Non-Cyclicals,IDR
+GOLL.JK,Golden Plantation Tbk.,Consumer Non-Cyclicals,IDR
+GZCO.JK,Gozco Plantations Tbk.,Consumer Non-Cyclicals,IDR
+HERO.JK,Hero Supermarket Tbk.,Consumer Non-Cyclicals,IDR
+HMSP.JK,H.M. Sampoerna Tbk.,Consumer Non-Cyclicals,IDR
+ICBP.JK,Indofood CBP Sukses Makmur Tbk,Consumer Non-Cyclicals,IDR
+JAWA.JK,Jaya Agra Wattie Tbk.,Consumer Non-Cyclicals,IDR
+JPFA.JK,Japfa Comfeed Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+LSIP.JK,PP London Sumatra Indonesia Tb,Consumer Non-Cyclicals,IDR
+MAGP.JK,Multi Agro Gemilang Plantation,Consumer Non-Cyclicals,IDR
+MAIN.JK,Malindo Feedmill Tbk.,Consumer Non-Cyclicals,IDR
+MBTO.JK,Martina Berto Tbk.,Consumer Non-Cyclicals,IDR
+MIDI.JK,Midi Utama Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+MLBI.JK,Multi Bintang Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+MPPA.JK,Matahari Putra Prima Tbk.,Consumer Non-Cyclicals,IDR
+MRAT.JK,Mustika Ratu Tbk.,Consumer Non-Cyclicals,IDR
+MYOR.JK,Mayora Indah Tbk.,Consumer Non-Cyclicals,IDR
+PALM.JK,Provident Investasi Bersama Tb,Consumer Non-Cyclicals,IDR
+PSDN.JK,Prasidha Aneka Niaga Tbk,Consumer Non-Cyclicals,IDR
+RANC.JK,Supra Boga Lestari Tbk.,Consumer Non-Cyclicals,IDR
+RMBA.JK,Bentoel Internasional Investam,Consumer Non-Cyclicals,IDR
+ROTI.JK,Nippon Indosari Corpindo Tbk.,Consumer Non-Cyclicals,IDR
+SDPC.JK,Millennium Pharmacon Internati,Consumer Non-Cyclicals,IDR
+SGRO.JK,Sampoerna Agro Tbk.,Consumer Non-Cyclicals,IDR
+SIMP.JK,Salim Ivomas Pratama Tbk.,Consumer Non-Cyclicals,IDR
+SIPD.JK,Sreeya Sewu Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+SKBM.JK,Sekar Bumi Tbk.,Consumer Non-Cyclicals,IDR
+SKLT.JK,Sekar Laut Tbk.,Consumer Non-Cyclicals,IDR
+SMAR.JK,Smart Tbk.,Consumer Non-Cyclicals,IDR
+SSMS.JK,Sawit Sumbermas Sarana Tbk.,Consumer Non-Cyclicals,IDR
+STTP.JK,Siantar Top Tbk.,Consumer Non-Cyclicals,IDR
+TBLA.JK,Tunas Baru Lampung Tbk.,Consumer Non-Cyclicals,IDR
+ULTJ.JK,Ultra Jaya Milk Industry & Tra,Consumer Non-Cyclicals,IDR
+UNSP.JK,Bakrie Sumatera Plantations Tb,Consumer Non-Cyclicals,IDR
+UNVR.JK,Unilever Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+WAPO.JK,Wahana Pronatural Tbk.,Consumer Non-Cyclicals,IDR
+WICO.JK,Wicaksana Overseas Internation,Consumer Non-Cyclicals,IDR
+WIIM.JK,Wismilak Inti Makmur Tbk.,Consumer Non-Cyclicals,IDR
+DAYA.JK,Duta Intidaya Tbk.,Consumer Non-Cyclicals,IDR
+DPUM.JK,Dua Putra Utama Makmur Tbk.,Consumer Non-Cyclicals,IDR
+HOKI.JK,Buyung Poetra Sembada Tbk.,Consumer Non-Cyclicals,IDR
+MGRO.JK,Mahkota Group Tbk.,Consumer Non-Cyclicals,IDR
+ANDI.JK,Andira Agro Tbk.,Consumer Non-Cyclicals,IDR
+PANI.JK,Pratama Abadi Nusa Industri Tb,Consumer Non-Cyclicals,IDR
+KPAS.JK,Cottonindo Ariesta Tbk.,Consumer Non-Cyclicals,IDR
+GOOD.JK,Garudafood Putra Putri Jaya Tb,Consumer Non-Cyclicals,IDR
+FOOD.JK,Sentra Food Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+BEEF.JK,Estika Tata Tiara Tbk.,Consumer Non-Cyclicals,IDR
+COCO.JK,Wahana Interfood Nusantara Tbk,Consumer Non-Cyclicals,IDR
+ITIC.JK,Indonesian Tobacco Tbk.,Consumer Non-Cyclicals,IDR
+KEJU.JK,Mulia Boga Raya Tbk.,Consumer Non-Cyclicals,IDR
+PSGO.JK,Palma Serasih Tbk.,Consumer Non-Cyclicals,IDR
+AGAR.JK,Asia Sejahtera Mina Tbk.,Consumer Non-Cyclicals,IDR
+UCID.JK,Uni-Charm Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+CSRA.JK,Cisadane Sawit Raya Tbk.,Consumer Non-Cyclicals,IDR
+DMND.JK,Diamond Food Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+IKAN.JK,Era Mandiri Cemerlang Tbk.,Consumer Non-Cyclicals,IDR
+PGUN.JK,Pradiksi Gunatama Tbk.,Consumer Non-Cyclicals,IDR
+KMDS.JK,Kurniamitra Duta Sentosa Tbk.,Consumer Non-Cyclicals,IDR
+ENZO.JK,Morenzo Abadi Perkasa Tbk.,Consumer Non-Cyclicals,IDR
+VICI.JK,Victoria Care Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+PMMP.JK,Panca Mitra Multiperdana Tbk.,Consumer Non-Cyclicals,USD
+FAPA.JK,FAP Agri Tbk.,Consumer Non-Cyclicals,IDR
+WMUU.JK,Widodo Makmur Unggas Tbk.,Consumer Non-Cyclicals,IDR
+TAPG.JK,Triputra Agro Persada Tbk.,Consumer Non-Cyclicals,IDR
+FLMC.JK,Falmaco Nonwoven Industri Tbk.,Consumer Non-Cyclicals,IDR
+TCID.JK,Mandom Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+TGKA.JK,Tigaraksa Satria Tbk.,Consumer Non-Cyclicals,IDR
+BTEK.JK,Bumi Teknokultura Unggul Tbk,Consumer Non-Cyclicals,IDR
+BUDI.JK,Budi Starch & Sweetener Tbk.,Consumer Non-Cyclicals,IDR
+BOBA.JK,Formosa Ingredient Factory Tbk,Consumer Non-Cyclicals,IDR
+CMRY.JK,Cisarua Mountain Dairy Tbk.,Consumer Non-Cyclicals,IDR
+CLEO.JK,Sariguna Primatirta Tbk.,Consumer Non-Cyclicals,IDR
+INDF.JK,Indofood Sukses Makmur Tbk.,Consumer Non-Cyclicals,IDR
+TAYS.JK,Jaya Swarasa Agung Tbk.,Consumer Non-Cyclicals,IDR
+WMPP.JK,Widodo Makmur Perkasa Tbk.,Consumer Non-Cyclicals,IDR
+IPPE.JK,Indo Pureco Pratama Tbk.,Consumer Non-Cyclicals,IDR
+NASI.JK,Wahana Inti Makmur Tbk.,Consumer Non-Cyclicals,IDR
+CAMP.JK,Campina Ice Cream Industry Tbk,Consumer Non-Cyclicals,IDR
+PCAR.JK,Prima Cakrawala Abadi Tbk.,Consumer Non-Cyclicals,IDR
+STAA.JK,Sumber Tani Agung Resources Tb,Consumer Non-Cyclicals,IDR
+NANO.JK,Nanotech Indonesia Global Tbk.,Consumer Non-Cyclicals,IDR
+TLDN.JK,Teladan Prima Agro Tbk.,Consumer Non-Cyclicals,IDR
+IBOS.JK,Indo Boga Sukses Tbk.,Consumer Non-Cyclicals,IDR
+ASHA.JK,Cilacap Samudera Fishing Indus,Consumer Non-Cyclicals,IDR
+TRGU.JK,Cerestar Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+KINO.JK,Kino Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+DEWI.JK,Dewi Shri Farmindo Tbk.,Consumer Non-Cyclicals,IDR
+GULA.JK,Aman Agrindo Tbk.,Consumer Non-Cyclicals,IDR
+JARR.JK,Jhonlin Agro Raya Tbk.,Consumer Non-Cyclicals,IDR
+AMMS.JK,Agung Menjangan Mas Tbk.,Consumer Non-Cyclicals,IDR
+EURO.JK,Estee Gold Feet Tbk.,Consumer Non-Cyclicals,IDR
+BUAH.JK,Segar Kumala Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+CRAB.JK,Toba Surimi Industries Tbk.,Consumer Non-Cyclicals,IDR
+AIMS.JK,Akbar Indo Makmur Stimec Tbk,Energy,IDR
+AKRA.JK,AKR Corporindo Tbk.,Energy,IDR
+APEX.JK,Apexindo Pratama Duta Tbk.,Energy,USD
+ARII.JK,Atlas Resources Tbk.,Energy,USD
+ARTI.JK,Ratu Prabu Energi Tbk,Energy,IDR
+BBRM.JK,Pelayaran Nasional Bina Buana ,Energy,USD
+BIPI.JK,Astrindo Nusantara Infrastrukt,Energy,USD
+ADRO.JK,Adaro Energy Indonesia Tbk.,Energy,USD
+BULL.JK,Buana Lintas Lautan Tbk.,Energy,USD
+BUMI.JK,Bumi Resources Tbk.,Energy,USD
+BYAN.JK,Bayan Resources Tbk.,Energy,USD
+CANI.JK,Capitol Nusantara Indonesia Tb,Energy,USD
+CNKO.JK,Exploitasi Energi Indonesia Tb,Energy,IDR
+DEWA.JK,Darma Henwa Tbk,Energy,USD
+DOID.JK,Delta Dunia Makmur Tbk.,Energy,USD
+DSSA.JK,Dian Swastatika Sentosa Tbk,Energy,USD
+ELSA.JK,Elnusa Tbk.,Energy,IDR
+ENRG.JK,Energi Mega Persada Tbk.,Energy,USD
+ETWA.JK,Eterindo Wahanatama Tbk,Energy,IDR
+GEMS.JK,Golden Energy Mines Tbk.,Energy,USD
+GTBO.JK,Garda Tujuh Buana Tbk,Energy,USD
+HITS.JK,Humpuss Intermoda Transportasi,Energy,USD
+HRUM.JK,Harum Energy Tbk.,Energy,USD
+IATA.JK,MNC Energy Investments Tbk.,Energy,USD
+INDY.JK,Indika Energy Tbk.,Energy,USD
+ITMA.JK,Sumber Energi Andalan Tbk.,Energy,USD
+ITMG.JK,Indo Tambangraya Megah Tbk.,Energy,USD
+KKGI.JK,Resource Alam Indonesia Tbk.,Energy,USD
+KOPI.JK,Mitra Energi Persada Tbk.,Energy,IDR
+LEAD.JK,Logindo Samudramakmur Tbk.,Energy,USD
+MBAP.JK,Mitrabara Adiperdana Tbk.,Energy,USD
+MBSS.JK,Mitrabahtera Segara Sejati Tbk,Energy,USD
+MEDC.JK,Medco Energi Internasional Tbk,Energy,USD
+MITI.JK,Mitra Investindo Tbk.,Energy,IDR
+MTFN.JK,Capitalinc Investment Tbk.,Energy,IDR
+MYOH.JK,Samindo Resources Tbk.,Energy,USD
+PGAS.JK,Perusahaan Gas Negara Tbk.,Energy,USD
+PKPK.JK,Perdana Karya Perkasa Tbk,Energy,IDR
+PTBA.JK,Bukit Asam Tbk.,Energy,IDR
+PTIS.JK,Indo Straits Tbk.,Energy,USD
+PTRO.JK,Petrosea Tbk.,Energy,USD
+RAJA.JK,Rukun Raharja Tbk.,Energy,USD
+RIGS.JK,Rig Tenders Indonesia Tbk.,Energy,USD
+RUIS.JK,Radiant Utama Interinsco Tbk.,Energy,IDR
+SMMT.JK,Golden Eagle Energy Tbk.,Energy,IDR
+SMRU.JK,SMR Utama Tbk.,Energy,IDR
+SOCI.JK,Soechi Lines Tbk.,Energy,USD
+TOBA.JK,TBS Energi Utama Tbk.,Energy,USD
+TPMA.JK,Trans Power Marine Tbk.,Energy,USD
+TRAM.JK,Trada Alam Minera Tbk.,Energy,IDR
+SHIP.JK,Sillo Maritime Perdana Tbk.,Energy,USD
+FIRE.JK,Alfa Energi Investama Tbk.,Energy,IDR
+PSSI.JK,Pelita Samudera Shipping Tbk.,Energy,USD
+DWGL.JK,Dwi Guna Laksana Tbk.,Energy,IDR
+JSKY.JK,Sky Energy Indonesia Tbk.,Energy,IDR
+INPS.JK,Indah Prakasa Sentosa Tbk.,Energy,IDR
+TCPI.JK,Transcoal Pacific Tbk.,Energy,IDR
+SURE.JK,Super Energy Tbk.,Energy,IDR
+WOWS.JK,Ginting Jaya Energi Tbk.,Energy,IDR
+TEBE.JK,Dana Brata Luhur Tbk.,Energy,IDR
+BESS.JK,Batulicin Nusantara Maritim Tb,Energy,IDR
+SGER.JK,Sumber Global Energy Tbk.,Energy,IDR
+UNIQ.JK,Ulima Nitra Tbk.,Energy,IDR
+BSSR.JK,Baramulti Suksessarana Tbk.,Energy,USD
+MCOL.JK,Prima Andalan Mandiri Tbk.,Energy,USD
+GTSI.JK,GTS Internasional Tbk.,Energy,USD
+TAMU.JK,Pelayaran Tamarin Samudra Tbk.,Energy,USD
+WINS.JK,Wintermar Offshore Marine Tbk.,Energy,USD
+RMKE.JK,RMK Energy Tbk.,Energy,IDR
+BSML.JK,Bintang Samudera Mandiri Lines,Energy,IDR
+ADMR.JK,Adaro Minerals Indonesia Tbk.,Energy,USD
+SEMA.JK,Semacom Integrated Tbk.,Energy,IDR
+BOSS.JK,Borneo Olah Sarana Sukses Tbk.,Energy,IDR
+SICO.JK,Sigma Energy Compressindo Tbk.,Energy,IDR
+COAL.JK,Black Diamond Resources Tbk.,Energy,IDR
+AMAG.JK,Asuransi Multi Artha Guna Tbk.,Financials,IDR
+APIC.JK,Pacific Strategic Financial Tb,Financials,IDR
+ARTO.JK,Bank Jago Tbk.,Financials,IDR
+ASBI.JK,Asuransi Bintang Tbk.,Financials,IDR
+ASDM.JK,Asuransi Dayin Mitra Tbk.,Financials,IDR
+ASJT.JK,Asuransi Jasa Tania Tbk.,Financials,IDR
+ASMI.JK,Asuransi Maximus Graha Persada,Financials,IDR
+BBCA.JK,Bank Central Asia Tbk.,Financials,IDR
+BBHI.JK,Allo Bank Indonesia Tbk.,Financials,IDR
+BBKP.JK,Bank KB Bukopin Tbk.,Financials,IDR
+BBLD.JK,Buana Finance Tbk.,Financials,IDR
+BBMD.JK,Bank Mestika Dharma Tbk.,Financials,IDR
+BBNI.JK,Bank Negara Indonesia (Persero,Financials,IDR
+BBRI.JK,Bank Rakyat Indonesia (Persero,Financials,IDR
+BBTN.JK,Bank Tabungan Negara (Persero),Financials,IDR
+BBYB.JK,Bank Neo Commerce Tbk.,Financials,IDR
+BCAP.JK,MNC Kapital Indonesia Tbk.,Financials,IDR
+BCIC.JK,Bank JTrust Indonesia Tbk.,Financials,IDR
+BDMN.JK,Bank Danamon Indonesia Tbk.,Financials,IDR
+BEKS.JK,Bank Pembangunan Daerah Banten,Financials,IDR
+BFIN.JK,BFI Finance  Indonesia Tbk.,Financials,IDR
+BGTG.JK,Bank Ganesha Tbk.,Financials,IDR
+BINA.JK,Bank Ina Perdana Tbk.,Financials,IDR
+BJBR.JK,Bank Pembangunan Daerah Jawa B,Financials,IDR
+BJTM.JK,Bank Pembangunan Daerah Jawa T,Financials,IDR
+BKSW.JK,Bank QNB Indonesia Tbk.,Financials,IDR
+BMAS.JK,Bank Maspion Indonesia Tbk.,Financials,IDR
+BMRI.JK,Bank Mandiri (Persero) Tbk.,Financials,IDR
+BNBA.JK,Bank Bumi Arta Tbk.,Financials,IDR
+BNGA.JK,Bank CIMB Niaga Tbk.,Financials,IDR
+BNII.JK,Bank Maybank Indonesia Tbk.,Financials,IDR
+BNLI.JK,Bank Permata Tbk.,Financials,IDR
+BPFI.JK,Woori Finance Indonesia Tbk.,Financials,IDR
+BPII.JK,Batavia Prosperindo Internasio,Financials,IDR
+ABDA.JK,Asuransi Bina Dana Arta Tbk.,Financials,IDR
+ADMF.JK,Adira Dinamika Multi Finance T,Financials,IDR
+AGRO.JK,Bank Raya Indonesia Tbk.,Financials,IDR
+AGRS.JK,Bank IBK Indonesia Tbk.,Financials,IDR
+AHAP.JK,Asuransi Harta Aman Pratama Tb,Financials,IDR
+BSIM.JK,Bank Sinarmas Tbk.,Financials,IDR
+BVIC.JK,Bank Victoria International Tb,Financials,IDR
+CFIN.JK,Clipan Finance Indonesia Tbk.,Financials,IDR
+DEFI.JK,Danasupra Erapacific Tbk.,Financials,IDR
+DNAR.JK,Bank Oke Indonesia Tbk.,Financials,IDR
+DNET.JK,Indoritel Makmur Internasional,Financials,IDR
+GSMF.JK,Equity Development Investment ,Financials,IDR
+HDFA.JK,Radana Bhaskara Finance Tbk.,Financials,IDR
+IBFN.JK,Intan Baru Prana Tbk.,Financials,IDR
+INPC.JK,Bank Artha Graha Internasional,Financials,IDR
+LPGI.JK,Lippo General Insurance Tbk.,Financials,IDR
+LPPS.JK,Lenox Pasifik Investama Tbk.,Financials,IDR
+MAYA.JK,Bank Mayapada Internasional Tb,Financials,IDR
+MCOR.JK,Bank China Construction Bank I,Financials,IDR
+MEGA.JK,Bank Mega Tbk.,Financials,IDR
+MFIN.JK,Mandala Multifinance Tbk.,Financials,IDR
+MGNA.JK,Magna Investama Mandiri Tbk.,Financials,IDR
+MREI.JK,Maskapai Reasuransi Indonesia ,Financials,IDR
+NISP.JK,Bank OCBC NISP Tbk.,Financials,IDR
+NOBU.JK,Bank Nationalnobu Tbk.,Financials,IDR
+OCAP.JK,Onix Capital Tbk.,Financials,IDR
+PADI.JK,Minna Padi Investama Sekuritas,Financials,IDR
+PANS.JK,Panin Sekuritas Tbk.,Financials,IDR
+PEGE.JK,Panca Global Kapital Tbk.,Financials,IDR
+PNBN.JK,Bank Pan Indonesia Tbk,Financials,IDR
+PNBS.JK,Bank Panin Dubai Syariah Tbk.,Financials,IDR
+PNIN.JK,Paninvest Tbk.,Financials,IDR
+PNLF.JK,Panin Financial Tbk.,Financials,IDR
+POOL.JK,Pool Advista Indonesia Tbk.,Financials,IDR
+RELI.JK,Reliance Sekuritas Indonesia T,Financials,IDR
+SDRA.JK,Bank Woori Saudara Indonesia 1,Financials,IDR
+SMMA.JK,Sinarmas Multiartha Tbk.,Financials,IDR
+SRTG.JK,Saratoga Investama Sedaya Tbk.,Financials,IDR
+STAR.JK,Buana Artha Anugerah Tbk.,Financials,IDR
+TRIM.JK,Trimegah Sekuritas Indonesia T,Financials,IDR
+TRUS.JK,Trust Finance Indonesia Tbk,Financials,IDR
+VICO.JK,Victoria Investama Tbk.,Financials,IDR
+VINS.JK,Victoria Insurance Tbk.,Financials,IDR
+VRNA.JK,Verena Multi Finance Tbk.,Financials,IDR
+CASA.JK,Capital Financial Indonesia Tb,Financials,IDR
+BRIS.JK,Bank Syariah Indonesia Tbk.,Financials,IDR
+MTWI.JK,Malacca Trust Wuwungan Insuran,Financials,IDR
+NICK.JK,Charnic Capital Tbk.,Financials,IDR
+BTPS.JK,Bank BTPN Syariah Tbk.,Financials,IDR
+TUGU.JK,Asuransi Tugu Pratama Indonesi,Financials,IDR
+POLA.JK,Pool Advista Finance Tbk.,Financials,IDR
+SFAN.JK,Surya Fajar Capital Tbk.,Financials,IDR
+LIFE.JK,Asuransi Jiwa Sinarmas MSIG Tb,Financials,IDR
+FUJI.JK,Fuji Finance Indonesia Tbk.,Financials,IDR
+AMAR.JK,Bank Amar Indonesia Tbk.,Financials,IDR
+AMOR.JK,Ashmore Asset Management Indon,Financials,IDR
+BHAT.JK,Bhakti Multi Artha Tbk.,Financials,IDR
+BBSI.JK,Krom Bank Indonesia Tbk.,Financials,IDR
+BANK.JK,Bank Aladin Syariah Tbk.,Financials,IDR
+MASB.JK,Bank Multiarta Sentosa Tbk.,Financials,IDR
+TIFA.JK,KDB Tifa Finance Tbk.,Financials,IDR
+BSWD.JK,Bank Of India Indonesia Tbk.,Financials,IDR
+BTPN.JK,Bank BTPN Tbk.,Financials,IDR
+WOMF.JK,Wahana Ottomitra Multiartha Tb,Financials,IDR
+YULE.JK,Yulie Sekuritas Indonesia Tbk.,Financials,IDR
+IMJS.JK,Indomobil Multi Jasa Tbk.,Financials,IDR
+JMAS.JK,Asuransi Jiwa Syariah Jasa Mit,Financials,IDR
+ASRM.JK,Asuransi Ramayana Tbk.,Financials,IDR
+BABP.JK,Bank MNC Internasional Tbk.,Financials,IDR
+BACA.JK,Bank Capital Indonesia Tbk.,Financials,IDR
+DVLA.JK,Darya-Varia Laboratoria Tbk.,Healthcare,IDR
+KLBF.JK,Kalbe Farma Tbk.,Healthcare,IDR
+MERK.JK,Merck Tbk.,Healthcare,IDR
+MIKA.JK,Mitra Keluarga Karyasehat Tbk.,Healthcare,IDR
+PYFA.JK,Pyridam Farma Tbk,Healthcare,IDR
+SAME.JK,Sarana Meditama Metropolitan T,Healthcare,IDR
+SIDO.JK,Industri Jamu dan Farmasi Sido,Healthcare,IDR
+SILO.JK,Siloam International Hospitals,Healthcare,IDR
+SRAJ.JK,Sejahteraraya Anugrahjaya Tbk.,Healthcare,IDR
+TSPC.JK,Tempo Scan Pacific Tbk.,Healthcare,IDR
+PRDA.JK,Prodia Widyahusada Tbk.,Healthcare,IDR
+PRIM.JK,Royal Prima Tbk.,Healthcare,IDR
+HEAL.JK,Medikaloka Hermina Tbk.,Healthcare,IDR
+PEHA.JK,Phapros Tbk.,Healthcare,IDR
+IRRA.JK,Itama Ranoraya Tbk.,Healthcare,IDR
+CARE.JK,Metro Healthcare Indonesia Tbk,Healthcare,IDR
+SOHO.JK,Soho Global Health Tbk.,Healthcare,IDR
+DGNS.JK,Diagnos Laboratorium Utama Tbk,Healthcare,IDR
+BMHS.JK,Bundamedik Tbk.,Healthcare,IDR
+RSGK.JK,Kedoya Adyaraya Tbk.,Healthcare,IDR
+INAF.JK,Indofarma Tbk.,Healthcare,IDR
+KAEF.JK,Kimia Farma Tbk.,Healthcare,IDR
+MTMH.JK,Murni Sadar Tbk.,Healthcare,IDR
+MEDS.JK,Hetzer Medical Indonesia Tbk.,Healthcare,IDR
+AMFG.JK,Asahimas Flat Glass Tbk.,Industrials,IDR
+AMIN.JK,Ateliers Mecaniques D Indonesi,Industrials,IDR
+APII.JK,Arita Prima Indonesia Tbk.,Industrials,IDR
+ARNA.JK,Arwana Citramulia Tbk.,Industrials,IDR
+ASGR.JK,Astra Graphia Tbk.,Industrials,IDR
+ASII.JK,Astra International Tbk.,Industrials,IDR
+BHIT.JK,MNC Asia Holding Tbk.,Industrials,IDR
+BMTR.JK,Global Mediacom Tbk.,Industrials,IDR
+BNBR.JK,Bakrie & Brothers Tbk,Industrials,IDR
+ABMM.JK,ABM Investama Tbk.,Industrials,USD
+CTTH.JK,Citatah Tbk.,Industrials,IDR
+DYAN.JK,Dyandra Media International Tb,Industrials,IDR
+HEXA.JK,Hexindo Adiperkasa Tbk.,Industrials,USD
+ICON.JK,Island Concepts Indonesia Tbk.,Industrials,IDR
+IKBI.JK,Sumi Indo Kabel Tbk.,Industrials,USD
+INDX.JK,Tanah Laut Tbk,Industrials,IDR
+INTA.JK,Intraco Penta Tbk.,Industrials,IDR
+JECC.JK,Jembo Cable Company Tbk.,Industrials,IDR
+KIAS.JK,Keramika Indonesia Assosiasi T,Industrials,IDR
+KOBX.JK,Kobexindo Tractors Tbk.,Industrials,USD
+KOIN.JK,Kokoh Inti Arebama Tbk,Industrials,IDR
+KONI.JK,Perdana Bangun Pusaka Tbk,Industrials,IDR
+KRAH.JK,Grand Kartech Tbk.,Industrials,IDR
+LION.JK,Lion Metal Works Tbk.,Industrials,IDR
+MDRN.JK,Modern Internasional Tbk.,Industrials,IDR
+MFMI.JK,Multifiling Mitra Indonesia Tb,Industrials,IDR
+MLIA.JK,Mulia Industrindo Tbk,Industrials,IDR
+MLPL.JK,Multipolar Tbk.,Industrials,IDR
+SCCO.JK,Supreme Cable Manufacturing & ,Industrials,IDR
+TOTO.JK,Surya Toto Indonesia Tbk.,Industrials,IDR
+UNTR.JK,United Tractors Tbk.,Industrials,IDR
+VOKS.JK,Voksel Electric Tbk.,Industrials,IDR
+MARK.JK,Mark Dynamics Indonesia Tbk.,Industrials,IDR
+SPTO.JK,Surya Pertiwi Tbk.,Industrials,IDR
+KPAL.JK,Steadfast Marine Tbk.,Industrials,IDR
+SKRN.JK,Superkrane Mitra Utama Tbk.,Industrials,IDR
+CAKK.JK,Cahayaputra Asa Keramik Tbk.,Industrials,IDR
+SOSS.JK,Shield On Service Tbk.,Industrials,IDR
+CCSI.JK,Communication Cable Systems In,Industrials,IDR
+BLUE.JK,Berkah Prima Perkasa Tbk.,Industrials,IDR
+ARKA.JK,Arkha Jayanti Persada Tbk.,Industrials,IDR
+SINI.JK,Singaraja Putra Tbk.,Industrials,IDR
+HOPE.JK,Harapan Duta Pertiwi Tbk.,Industrials,IDR
+LABA.JK,Ladangbaja Murni Tbk.,Industrials,IDR
+GPSO.JK,Geoprima Solusi Tbk.,Industrials,IDR
+TIRA.JK,Tira Austenite Tbk,Industrials,IDR
+KUAS.JK,Ace Oldfields Tbk.,Industrials,IDR
+BINO.JK,Perma Plasindo Tbk.,Industrials,IDR
+ZBRA.JK,Dosni Roha Indonesia Tbk.,Industrials,IDR
+IMPC.JK,Impack Pratama Industri Tbk.,Industrials,IDR
+NTBK.JK,Nusatama Berkah Tbk.,Industrials,IDR
+JTPE.JK,Jasuindo Tiga Perkasa Tbk.,Industrials,IDR
+KBLI.JK,KMI Wire & Cable Tbk.,Industrials,IDR
+KBLM.JK,Kabelindo Murni Tbk.,Industrials,IDR
+BALI.JK,Bali Towerindo Sentra Tbk.,Infrastructures,IDR
+ACST.JK,Acset Indonusa Tbk.,Infrastructures,IDR
+ADHI.JK,Adhi Karya (Persero) Tbk.,Infrastructures,IDR
+BUKK.JK,Bukaka Teknik Utama Tbk.,Infrastructures,IDR
+CASS.JK,Cardig Aero Services Tbk.,Infrastructures,IDR
+CENT.JK,Centratama Telekomunikasi Indo,Infrastructures,IDR
+CMNP.JK,Citra Marga Nusaphala Persada ,Infrastructures,IDR
+DGIK.JK,Nusa Konstruksi Enjiniring Tbk,Infrastructures,IDR
+EXCL.JK,XL Axiata Tbk.,Infrastructures,IDR
+FREN.JK,Smartfren Telecom Tbk.,Infrastructures,IDR
+GOLD.JK,Visi Telekomunikasi Infrastruk,Infrastructures,IDR
+HADE.JK,Himalaya Energi Perkasa Tbk.,Infrastructures,IDR
+IBST.JK,Inti Bangun Sejahtera Tbk.,Infrastructures,IDR
+ISAT.JK,Indosat Tbk.,Infrastructures,IDR
+JKON.JK,Jaya Konstruksi Manggala Prata,Infrastructures,IDR
+LAPD.JK,Leyand International Tbk.,Infrastructures,IDR
+LINK.JK,Link Net Tbk.,Infrastructures,IDR
+META.JK,Nusantara Infrastructure Tbk.,Infrastructures,IDR
+NRCA.JK,Nusa Raya Cipta Tbk.,Infrastructures,IDR
+PTPP.JK,PP (Persero) Tbk.,Infrastructures,IDR
+SSIA.JK,Surya Semesta Internusa Tbk.,Infrastructures,IDR
+SUPR.JK,Solusi Tunas Pratama Tbk.,Infrastructures,IDR
+TBIG.JK,Tower Bersama Infrastructure T,Infrastructures,IDR
+TLKM.JK,Telkom Indonesia (Persero) Tbk,Infrastructures,IDR
+TOTL.JK,Total Bangun Persada Tbk.,Infrastructures,IDR
+TOWR.JK,Sarana Menara Nusantara Tbk.,Infrastructures,IDR
+IDPR.JK,Indonesia Pondasi Raya Tbk.,Infrastructures,IDR
+PBSA.JK,Paramita Bangun Sarana Tbk.,Infrastructures,IDR
+TGRA.JK,Terregra Asia Energy Tbk.,Infrastructures,IDR
+TOPS.JK,Totalindo Eka Persada Tbk.,Infrastructures,IDR
+MPOW.JK,Megapower Makmur Tbk.,Infrastructures,IDR
+GMFI.JK,Garuda Maintenance Facility Ae,Infrastructures,USD
+PPRE.JK,PP Presisi Tbk.,Infrastructures,IDR
+WEGE.JK,Wijaya Karya Bangunan Gedung T,Infrastructures,IDR
+MORA.JK,Mora Telematika Indonesia Tbk.,Infrastructures,IDR
+GHON.JK,Gihon Telekomunikasi Indonesia,Infrastructures,IDR
+IPCC.JK,Indonesia Kendaraan Terminal T,Infrastructures,IDR
+MTPS.JK,Meta Epsi Tbk.,Infrastructures,IDR
+JAST.JK,Jasnita Telekomindo Tbk.,Infrastructures,IDR
+KEEN.JK,Kencana Energi Lestari Tbk.,Infrastructures,USD
+PTPW.JK,Pratama Widya Tbk.,Infrastructures,IDR
+TAMA.JK,Lancartama Sejati Tbk.,Infrastructures,IDR
+RONY.JK,Aesler Grup Internasional Tbk.,Infrastructures,IDR
+PTDU.JK,Djasa Ubersakti Tbk.,Infrastructures,IDR
+FIMP.JK,Fimperkasa Utama Tbk.,Infrastructures,IDR
+BTEL.JK,Bakrie Telecom Tbk.,Infrastructures,IDR
+MTEL.JK,Dayamitra Telekomunikasi Tbk.,Infrastructures,IDR
+PORT.JK,Nusantara Pelabuhan Handal Tbk,Infrastructures,IDR
+WIKA.JK,Wijaya Karya (Persero) Tbk.,Infrastructures,IDR
+WSKT.JK,Waskita Karya (Persero) Tbk.,Infrastructures,IDR
+IPCM.JK,Jasa Armada Indonesia Tbk.,Infrastructures,IDR
+LCKM.JK,LCK Global Kedaton Tbk.,Infrastructures,IDR
+SMKM.JK,Sumber Mas Konstruksi Tbk.,Infrastructures,IDR
+JSMR.JK,Jasa Marga (Persero) Tbk.,Infrastructures,IDR
+KARW.JK,ICTSI Jasa Prima Tbk.,Infrastructures,USD
+KBLV.JK,First Media Tbk.,Infrastructures,IDR
+ARKO.JK,Arkora Hydro Tbk.,Infrastructures,IDR
+MTRA.JK,Mitra Pemuda Tbk.,Infrastructures,IDR
+OASA.JK,Maharaksa Biru Energi Tbk.,Infrastructures,IDR
+POWR.JK,Cikarang Listrindo Tbk.,Infrastructures,USD
+KRYA.JK,Bangun Karya Perkasa Jaya Tbk.,Infrastructures,IDR
+APLN.JK,Agung Podomoro Land Tbk.,Properties & Real Estate,IDR
+BAPA.JK,Bekasi Asri Pemula Tbk.,Properties & Real Estate,IDR
+BCIP.JK,Bumi Citra Permai Tbk.,Properties & Real Estate,IDR
+BEST.JK,Bekasi Fajar Industrial Estate,Properties & Real Estate,IDR
+BIKA.JK,Binakarya Jaya Abadi Tbk.,Properties & Real Estate,IDR
+BIPP.JK,Bhuwanatala Indah Permai Tbk.,Properties & Real Estate,IDR
+BKDP.JK,Bukit Darmo Property Tbk,Properties & Real Estate,IDR
+BKSL.JK,Sentul City Tbk.,Properties & Real Estate,IDR
+BSDE.JK,Bumi Serpong Damai Tbk.,Properties & Real Estate,IDR
+COWL.JK,Cowell Development Tbk.,Properties & Real Estate,IDR
+CTRA.JK,Ciputra Development Tbk.,Properties & Real Estate,IDR
+DART.JK,Duta Anggada Realty Tbk.,Properties & Real Estate,IDR
+DILD.JK,Intiland Development Tbk.,Properties & Real Estate,IDR
+DMAS.JK,Puradelta Lestari Tbk.,Properties & Real Estate,IDR
+DUTI.JK,Duta Pertiwi Tbk,Properties & Real Estate,IDR
+ELTY.JK,Bakrieland Development Tbk.,Properties & Real Estate,IDR
+EMDE.JK,Megapolitan Developments Tbk.,Properties & Real Estate,IDR
+FMII.JK,Fortune Mate Indonesia Tbk,Properties & Real Estate,IDR
+GAMA.JK,Aksara Global Development Tbk.,Properties & Real Estate,IDR
+GMTD.JK,Gowa Makassar Tourism Developm,Properties & Real Estate,IDR
+GPRA.JK,Perdana Gapuraprima Tbk.,Properties & Real Estate,IDR
+GWSA.JK,Greenwood Sejahtera Tbk.,Properties & Real Estate,IDR
+INPP.JK,Indonesian Paradise Property T,Properties & Real Estate,IDR
+JRPT.JK,Jaya Real Property Tbk.,Properties & Real Estate,IDR
+KIJA.JK,Kawasan Industri Jababeka Tbk.,Properties & Real Estate,IDR
+LCGP.JK,Eureka Prima Jakarta Tbk.,Properties & Real Estate,IDR
+LPCK.JK,Lippo Cikarang Tbk,Properties & Real Estate,IDR
+LPKR.JK,Lippo Karawaci Tbk.,Properties & Real Estate,IDR
+LPLI.JK,Star Pacific Tbk,Properties & Real Estate,IDR
+MDLN.JK,Modernland Realty Tbk.,Properties & Real Estate,IDR
+MKPI.JK,Metropolitan Kentjana Tbk.,Properties & Real Estate,IDR
+MMLP.JK,Mega Manunggal Property Tbk.,Properties & Real Estate,IDR
+MTLA.JK,Metropolitan Land Tbk.,Properties & Real Estate,IDR
+MTSM.JK,Metro Realty Tbk.,Properties & Real Estate,IDR
+MYRX.JK,Hanson International Tbk.,Properties & Real Estate,IDR
+NIRO.JK,City Retail Developments Tbk.,Properties & Real Estate,IDR
+OMRE.JK,Indonesia Prima Property Tbk,Properties & Real Estate,IDR
+PLIN.JK,Plaza Indonesia Realty Tbk.,Properties & Real Estate,IDR
+PPRO.JK,PP Properti Tbk.,Properties & Real Estate,IDR
+PUDP.JK,Pudjiadi Prestige Tbk.,Properties & Real Estate,IDR
+PWON.JK,Pakuwon Jati Tbk.,Properties & Real Estate,IDR
+RBMS.JK,Ristia Bintang Mahkotasejati T,Properties & Real Estate,IDR
+RDTX.JK,Roda Vivatex Tbk,Properties & Real Estate,IDR
+RIMO.JK,Rimo International Lestari Tbk,Properties & Real Estate,IDR
+RODA.JK,Pikko Land Development Tbk.,Properties & Real Estate,IDR
+SMDM.JK,Suryamas Dutamakmur Tbk.,Properties & Real Estate,IDR
+SMRA.JK,Summarecon Agung Tbk.,Properties & Real Estate,IDR
+TARA.JK,Agung Semesta Sejahtera Tbk.,Properties & Real Estate,IDR
+CSIS.JK,Cahayasakti Investindo Sukses ,Properties & Real Estate,IDR
+ARMY.JK,Armidian Karyatama Tbk.,Properties & Real Estate,IDR
+RISE.JK,Jaya Sukses Makmur Sentosa Tbk,Properties & Real Estate,IDR
+POLL.JK,Pollux Properties Indonesia Tb,Properties & Real Estate,IDR
+LAND.JK,Trimitra Propertindo Tbk.,Properties & Real Estate,IDR
+CITY.JK,Natura City Developments Tbk.,Properties & Real Estate,IDR
+MPRO.JK,Maha Properti Indonesia Tbk.,Properties & Real Estate,IDR
+SATU.JK,Kota Satu Properti Tbk.,Properties & Real Estate,IDR
+URBN.JK,Urban Jakarta Propertindo Tbk.,Properties & Real Estate,IDR
+POLI.JK,Pollux Hotels Group Tbk.,Properties & Real Estate,IDR
+CPRI.JK,Capri Nusa Satu Properti Tbk.,Properties & Real Estate,IDR
+POSA.JK,Bliss Properti Indonesia Tbk.,Properties & Real Estate,IDR
+PAMG.JK,Bima Sakti Pertiwi Tbk.,Properties & Real Estate,IDR
+KOTA.JK,DMS Propertindo Tbk.,Properties & Real Estate,IDR
+BAPI.JK,Bhakti Agung Propertindo Tbk.,Properties & Real Estate,IDR
+NZIA.JK,Nusantara Almazia Tbk.,Properties & Real Estate,IDR
+REAL.JK,Repower Asia Indonesia Tbk.,Properties & Real Estate,IDR
+INDO.JK,Royalindo Investa Wijaya Tbk.,Properties & Real Estate,IDR
+TRIN.JK,Perintis Triniti Properti Tbk.,Properties & Real Estate,IDR
+DADA.JK,Diamond Citra Propertindo Tbk.,Properties & Real Estate,IDR
+ASPI.JK,Andalan Sakti Primaindo Tbk.,Properties & Real Estate,IDR
+AMAN.JK,Makmur Berkah Amanda Tbk.,Properties & Real Estate,IDR
+KBAG.JK,Karya Bersama Anugerah Tbk.,Properties & Real Estate,IDR
+BBSS.JK,Bumi Benowo Sukses Sejahtera T,Properties & Real Estate,IDR
+PURI.JK,Puri Global Sukses Tbk.,Properties & Real Estate,IDR
+HOMI.JK,Grand House Mulia Tbk.,Properties & Real Estate,IDR
+ROCK.JK,Rockfields Properti Indonesia ,Properties & Real Estate,IDR
+ATAP.JK,Trimitra Prawara Goldland Tbk.,Properties & Real Estate,IDR
+ADCP.JK,Adhi Commuter Properti Tbk.,Properties & Real Estate,IDR
+TRUE.JK,Triniti Dinamik Tbk.,Properties & Real Estate,IDR
+IPAC.JK,Era Graharealty Tbk.,Properties & Real Estate,IDR
+FORZ.JK,Forza Land Indonesia Tbk.,Properties & Real Estate,IDR
+WINR.JK,Winner Nusantara Jaya Tbk.,Properties & Real Estate,IDR
+SWID.JK,Saraswanti Indoland Developmen,Properties & Real Estate,IDR
+ASRI.JK,Alam Sutera Realty Tbk.,Properties & Real Estate,IDR
+EMTK.JK,Elang Mahkota Teknologi Tbk.,Technology,IDR
+KREN.JK,Kresna Graha Investama Tbk.,Technology,IDR
+LMAS.JK,Limas Indonesia Makmur Tbk,Technology,IDR
+MLPT.JK,Multipolar Technology Tbk.,Technology,IDR
+MTDL.JK,Metrodata Electronics Tbk.,Technology,IDR
+PTSN.JK,Sat Nusapersada Tbk,Technology,USD
+SKYB.JK,Northcliff Citranusa Indonesia,Technology,IDR
+KIOS.JK,Kioson Komersial Indonesia Tbk,Technology,IDR
+MCAS.JK,M Cash Integrasi Tbk.,Technology,IDR
+NFCX.JK,NFC Indonesia Tbk.,Technology,IDR
+DIVA.JK,Distribusi Voucher Nusantara T,Technology,IDR
+LUCK.JK,Sentral Mitra Informatika Tbk.,Technology,IDR
+ENVY.JK,Envy Technologies Indonesia Tb,Technology,IDR
+HDIT.JK,Hensel Davest Indonesia Tbk.,Technology,IDR
+TFAS.JK,Telefast Indonesia Tbk.,Technology,IDR
+DMMX.JK,Digital Mediatama Maxima Tbk.,Technology,IDR
+GLVA.JK,Galva Technologies Tbk.,Technology,IDR
+PGJO.JK,Tourindo Guide Indonesia Tbk.,Technology,IDR
+CASH.JK,Cashlez Worldwide Indonesia Tb,Technology,IDR
+TECH.JK,Indosterling Technomedia Tbk.,Technology,IDR
+WIFI.JK,Solusi Sinergi Digital Tbk.,Technology,IDR
+DCII.JK,DCI Indonesia Tbk.,Technology,IDR
+EDGE.JK,Indointernet Tbk.,Technology,IDR
+ZYRX.JK,Zyrexindo Mandiri Buana Tbk.,Technology,IDR
+UVCR.JK,Trimegah Karya Pratama Tbk.,Technology,IDR
+BUKA.JK,Bukalapak.com Tbk.,Technology,IDR
+RUNS.JK,Global Sukses Solusi Tbk.,Technology,IDR
+WGSH.JK,Wira Global Solusi Tbk.,Technology,IDR
+WIRG.JK,WIR ASIA Tbk.,Technology,IDR
+GOTO.JK,GoTo Gojek Tokopedia Tbk.,Technology,IDR
+ATIC.JK,Anabatic Technologies Tbk.,Technology,IDR
+AXIO.JK,Tera Data Indonusa Tbk.,Technology,IDR
+AKSI.JK,Mineral Sumberdaya Mandiri Tbk,Transportation & Logistic,IDR
+BIRD.JK,Blue Bird Tbk.,Transportation & Logistic,IDR
+BLTA.JK,Berlian Laju Tanker Tbk,Transportation & Logistic,USD
+CMPP.JK,AirAsia Indonesia Tbk.,Transportation & Logistic,IDR
+GIAA.JK,Garuda Indonesia (Persero) Tbk,Transportation & Logistic,USD
+LRNA.JK,Eka Sari Lorena Transport Tbk.,Transportation & Logistic,IDR
+MIRA.JK,Mitra International Resources ,Transportation & Logistic,IDR
+NELY.JK,Pelayaran Nelly Dwi Putri Tbk.,Transportation & Logistic,IDR
+SAFE.JK,Steady Safe Tbk,Transportation & Logistic,IDR
+SDMU.JK,Sidomulyo Selaras Tbk.,Transportation & Logistic,IDR
+SMDR.JK,Samudera Indonesia  Tbk.,Transportation & Logistic,USD
+TAXI.JK,Express Transindo Utama Tbk.,Transportation & Logistic,IDR
+TMAS.JK,Temas Tbk.,Transportation & Logistic,IDR
+WEHA.JK,WEHA Transportasi Indonesia Tb,Transportation & Logistic,IDR
+TRUK.JK,Guna Timur Raya Tbk.,Transportation & Logistic,IDR
+TNCA.JK,Trimuda Nuansa Citra Tbk.,Transportation & Logistic,IDR
+BPTR.JK,Batavia Prosperindo Trans Tbk.,Transportation & Logistic,IDR
+SAPX.JK,Satria Antaran Prima Tbk.,Transportation & Logistic,IDR
+DEAL.JK,Dewata Freightinternational Tb,Transportation & Logistic,IDR
+JAYA.JK,Armada Berjaya Trans Tbk.,Transportation & Logistic,IDR
+KJEN.JK,Krida Jaringan Nusantara Tbk.,Transportation & Logistic,IDR
+PURA.JK,Putra Rajawali Kencana Tbk.,Transportation & Logistic,IDR
+PPGL.JK,Prima Globalindo Logistik Tbk.,Transportation & Logistic,IDR
+TRJA.JK,Transkon Jaya Tbk.,Transportation & Logistic,IDR
+HAIS.JK,Hasnur Internasional Shipping ,Transportation & Logistic,IDR
+HELI.JK,Jaya Trishindo Tbk.,Transportation & Logistic,IDR
+ASSA.JK,Adi Sarana Armada Tbk.,Transportation & Logistic,IDR
+HATM.JK,Habco Trans Maritima Tbk.,Transportation & Logistic,IDR
+RCCC.JK,Utama Radar Cahaya Tbk.,Transportation & Logistic,IDR
+ELPI.JK,Pelayaran Nasional Ekalya Purn,Transportation & Logistic,IDR
