@@ -360,6 +360,7 @@ elif select == "Stock List":
         if string_2 in string_1:
             baru = string_1.replace(string_2, '')
         df_nonjk.iloc[i]["Kode"] = baru
+    df_nonjk.index = [i for i in range(1,len(df_nonjk)+1)]
     st.table(df_nonjk)
 
 
