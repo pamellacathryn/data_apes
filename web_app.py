@@ -140,8 +140,6 @@ def get_chart(data):
     )
     return (lines + points + tooltips).interactive()
 
-
-
 def create_models(fourier_pairs, target, kode_emiten):
     fourier = CalendarFourier(freq="A", order=fourier_pairs)
     dp = DeterministicProcess(
@@ -258,7 +256,6 @@ if select == "Main":
     st.markdown("<h6 style='text-align: center; '>by Data Apes</h6>",
                 unsafe_allow_html=True)
     st.write("")
-    image = Image.open('stock.jpg')
 
     st.header('Start Your Analysis and Create Predictions!')
     koloms1, koloms2, koloms3 = st.columns([1,1,1])
