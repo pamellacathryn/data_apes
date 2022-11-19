@@ -196,8 +196,6 @@ if select == "Main":
     st.markdown("<h6 style='text-align: center; '>Data Apes</h6>",
                 unsafe_allow_html=True)
     st.write("")
-    image = Image.open('stock.jpg')
-
     st.header('Start Your Analysis and Create Predictions!')
     koloms1, koloms2, koloms3 = st.columns([1,1,1])
     profil = koloms1.radio("Your Investment Type",('Short Term', 'Long Term'))
