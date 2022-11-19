@@ -193,7 +193,7 @@ with st.sidebar:
 if select == "Main":
     st.markdown("<h1 style='text-align: center; '>Your Stock Analysis Partner</h1>",
                 unsafe_allow_html=True)
-    st.markdown("<h6 style='text-align: center; '>Data Apes</h6>",
+    st.markdown("<h6 style='text-align: center; '>by Data Apes</h6>",
                 unsafe_allow_html=True)
     st.write("")
     st.header('Start Your Analysis and Create Predictions!')
