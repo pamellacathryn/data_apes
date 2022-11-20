@@ -378,7 +378,7 @@ if select == "Main":
                         {'Kode Perusahaan': [], 'Peningkatan (%)': [], 'Harga Terakhir': [], 'Harga Prediksi': []})
 
                     for k in kode:
-                        datumz = yf.download(k, start, end)
+                        datumz = yf.download(k, start)
 
                         try:
                             datumz = yf.download(k, start)
