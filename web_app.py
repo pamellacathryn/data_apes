@@ -447,13 +447,9 @@ if select == "Main":
                 datazz = pd.read_csv(f"{sector}.csv", delimiter=",").drop('Unnamed: 0', axis=1)
                 col_names = datazz.columns
                 top_10_rekomendasi, skor = fundamental_rekom(sector)
-                if sector == "Technology":
-                    par = 8
-                else:
-                    par = 10
-                st.markdown(f"<h4 style='text-align: center; '>Top {par} Stock's Growth Percentage on {sector}</h4>",
-                            unsafe_allow_html=True)
                 top_10_rekomendasi = top_10_rekomendasi[0:10]
+                st.markdown(f"<h4 style='text-align: center; '>Top {len(top_10_rekomendasi)} Stock's Growth Percentage on {sector}</h4>",
+                            unsafe_allow_html=True)
                 top_10_rekomendasi.index = [i for i in range(1,len(top_10_rekomendasi)+1)]
                 st.table(top_10_rekomendasi)
                 st.warning(f'The Percentage Increase may vary between ±{round(skor,2)}% of the value shown above', icon="💡")
