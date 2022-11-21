@@ -330,7 +330,7 @@ if select == "Main":
                     col1, col2 = st.columns([3,1])
                     start = col2.date_input(
                         "Start Date:",
-                        datetime(2022, 11, 1))
+                        datetime(2022, 11, 14))
 
                     datumz = yf.download(emiten_jk, start)
                     _, ax = plt.subplots()
@@ -377,7 +377,7 @@ if select == "Main":
                 kode = sektor['Kode'].values
                 start = st.date_input(
                     "Start Date:",
-                    datetime(2022, 11, 1))
+                    datetime(2022, 11, 14))
                 end = datetime.now()
                 st.write("")
                 with st.spinner('Wait for it... (it might take a while)'):
