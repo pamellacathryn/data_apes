@@ -33,7 +33,7 @@ def predict(index, emiten, orde, dataset):
 def execute(sector, dataset):
     test_pred = pd.DataFrame({col: [] for col in col_names[:-1]})
     test_acc = pd.DataFrame({col: [] for col in col_names[:-1]})
-    orde = 3
+    orde = 2
 
     for i in emiten_sector.loc[emiten_sector[2] == sector, 0]:
         pred_list = [i, sector, 2022]
