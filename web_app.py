@@ -384,7 +384,6 @@ if select == "Main":
                 end = datetime.now()
                 st.write("")
                 with st.spinner('Wait for it... (it might take a while)'):
-                    try:
                         result = pd.DataFrame(
                             {'Kode Perusahaan': [], 'Peningkatan (%)': [], 'Harga Terakhir': [], 'Harga Prediksi': []})
 
@@ -410,9 +409,6 @@ if select == "Main":
                             result = result.replace([result.iloc[i]["Kode Perusahaan"]], result.iloc[i]["Kode Perusahaan"].replace('.JK', ''))
                         st.table(result[["Kode Perusahaan","Peningkatan (%)"]])
                         result = result.reset_index()
-                    except:
-                        st.error("Try another date", icon="🚨")
-                        st.stop()
 
                 st.markdown(f"<h4 style='text-align: center; '>Stock Prices Forecasting on {sector}</h4>",
                             unsafe_allow_html=True)
