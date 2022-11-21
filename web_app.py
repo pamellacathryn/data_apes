@@ -327,7 +327,7 @@ if select == "Main":
                 elif profil == "Short Term":
                     st.markdown(f"<h4 style='text-align: center; '>Stock Price Forecasting of {emiten}</h4>",
                                 unsafe_allow_html=True)
-                    col1, col2 = st.columns([3, 1])
+                    col1, col2 = st.columns([3,1])
                     start = col2.date_input(
                         "Start Date:",
                         datetime(2022, 11, 1))
@@ -345,7 +345,7 @@ if select == "Main":
                     for_index = yf.download(emiten_jk, start)
                     histor = datumz[['Close']]
                     histor.columns = [emiten_jk]
-                    for_index["Index"]=for_index.index
+                    for_index["Index"] = for_index.index
                     forecastz = target_fore[0]
                     forecastz = pd.DataFrame([forecastz])
                     benerin = datumz["Close"]
