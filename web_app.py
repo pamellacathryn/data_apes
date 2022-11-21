@@ -345,8 +345,11 @@ if select == "Main":
                     for_index = yf.download(emiten_jk, start)
                     histor = datumz[['Close']]
                     histor.columns = [emiten_jk]
-                    for_index["Index"] = for_index.index
-                    forecastz = target_fore[0]
+                    for_index["Index"]=for_index.index
+                    if type(target_fore) == 'numpy.float64':
+                        forecastz = target_fore[0]
+                    else:
+                        forecastz = target_fore
                     forecastz = pd.DataFrame([forecastz])
                     benerin = datumz["Close"]
                     benerin.index = for_index["Index"]
@@ -361,11 +364,10 @@ if select == "Main":
                     gabung = pd.concat([after_forecastz, histor], axis=1)
                     gabung.columns = [emiten + "_Forecast", emiten]
                     col1.line_chart(gabung)
-                    kenaikan = (((target_fore[0] - histor.iloc[-1].to_numpy()) / histor.iloc[-1].to_numpy()) * 100)
+                    kenaikan = (((forecastz - histor.iloc[-1].to_numpy()) / histor.iloc[-1].to_numpy()) * 100)
                     for k in kenaikan:
                         kenaikan = k
                     col2.write(f"Increment (%): {round(kenaikan, 2)}%")
-
             else:
                 st.error('Stock Not Found', icon="🚨")
 
