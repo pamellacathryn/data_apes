@@ -295,34 +295,31 @@ if select == "Main":
                 kol2.markdown(f"<div style='text-align: justify;'>{symbol.get('longBusinessSummary')}</div>", unsafe_allow_html=True)
                 st.write("")
                 if profil == "Long Term":
-                    try:
-                        datazz = pd.read_csv(f"{sector}.csv", delimiter=",").drop('Unnamed: 0', axis=1)
-                        col_names = datazz.columns
-                        sector = find_sector_emiten(emiten)
-                        top_10_rekomendasi, skor = fundamental_rekom(sector)
-                        tablezz = top_10_rekomendasi.loc[top_10_rekomendasi["Emiten"] == emiten,:]
-                        hide_table_row_index = """
-                                    <style>
-                                    thead tr th:first-child {display:none}
-                                    tbody th {display:none}
-                                    </style>
-                                    """
-                        st.markdown(hide_table_row_index, unsafe_allow_html=True)
-                        st.table(tablezz)
-                        meannn = tablezz["Percentage Increase (%)"].iloc[0]
-                        st.warning(f'The Percentage Increase of {tablezz["Emiten"].iloc[0]} may vary between {round(meannn-skor, 2)}% and {round(meannn+skor, 2)}%', icon="💡")
-                        st.write("")
-                        rasio = st.selectbox(
-                                'Choose ratio:',
-                                ('PB', 'ROA', 'ROE', 'EPS', 'PER', 'DER', 'DAR', 'Cash Flow', 'Percentage Increase (%)'))
-                        st.markdown(f"<h4 style='text-align: center; '>Visualization of the {rasio} of {emiten} to the Average {rasio} of the {sector} Sector</h4>", unsafe_allow_html=True)
-                        yearly_sektor_mean = datazz.groupby('Peningkatan').mean()[rasio]
-                        yearly_emiten = datazz.loc[datazz['Emiten'] == emiten, :].groupby('Peningkatan').mean()[rasio]
-                        gabungin = pd.concat([yearly_sektor_mean, yearly_emiten], axis=1)
-                        gabungin.columns = [rasio+"_Sector",rasio]
-                        st.line_chart(gabungin)
-                    except:
-                        st.error("Missing data from websource", icon="🚨")
+                    datazz = pd.read_csv(f"{sector}.csv", delimiter=",").drop('Unnamed: 0', axis=1)
+                    col_names = datazz.columns
+                    sector = find_sector_emiten(emiten)
+                    top_10_rekomendasi, skor = fundamental_rekom(sector)
+                    tablezz = top_10_rekomendasi.loc[top_10_rekomendasi["Emiten"] == emiten,:]
+                    hide_table_row_index = """
+                                <style>
+                                thead tr th:first-child {display:none}
+                                tbody th {display:none}
+                                </style>
+                                """
+                    st.markdown(hide_table_row_index, unsafe_allow_html=True)
+                    st.table(tablezz)
+                    meannn = tablezz["Percentage Increase (%)"].iloc[0]
+                    st.warning(f'The Percentage Increase of {tablezz["Emiten"].iloc[0]} may vary between {round(meannn-skor, 2)}% and {round(meannn+skor, 2)}%', icon="💡")
+                    st.write("")
+                    rasio = st.selectbox(
+                            'Choose ratio:',
+                            ('PB', 'ROA', 'ROE', 'EPS', 'PER', 'DER', 'DAR', 'Cash Flow', 'Percentage Increase (%)'))
+                    st.markdown(f"<h4 style='text-align: center; '>Visualization of the {rasio} of {emiten} to the Average {rasio} of the {sector} Sector</h4>", unsafe_allow_html=True)
+                    yearly_sektor_mean = datazz.groupby('Peningkatan').mean()[rasio]
+                    yearly_emiten = datazz.loc[datazz['Emiten'] == emiten, :].groupby('Peningkatan').mean()[rasio]
+                    gabungin = pd.concat([yearly_sektor_mean, yearly_emiten], axis=1)
+                    gabungin.columns = [rasio+"_Sector",rasio]
+                    st.line_chart(gabungin)
 
 
                 elif profil == "Short Term":
