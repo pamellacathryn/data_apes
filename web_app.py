@@ -377,35 +377,39 @@ if select == "Main":
                 kode = sektor['Kode'].values
                 start = st.date_input(
                                 "Start Date:",
-                                )
+                                datetime(2022, 11, 1))
                 end = datetime.now()
                 st.write("")
                 with st.spinner('Wait for it... (it might take a while)'):
-                    result = pd.DataFrame(
-                        {'Kode Perusahaan': [], 'Peningkatan (%)': [], 'Harga Terakhir': [], 'Harga Prediksi': []})
+                    try:
+                        result = pd.DataFrame(
+                            {'Kode Perusahaan': [], 'Peningkatan (%)': [], 'Harga Terakhir': [], 'Harga Prediksi': []})
 
-                    for k in kode:
-                        datumz = yf.download(k, start)
-
-                        try:
+                        for k in kode:
                             datumz = yf.download(k, start)
-                            datumz = datumz.to_period('D')
-                            target, target_pred, target_fore, perc = create_models(12, datumz['Close'], k)
-                            target_fore, perc = check_pred(target, target_fore, perc)
-                            app = pd.DataFrame({'Kode Perusahaan': [k], 'Peningkatan (%)': [perc],
-                                                'Harga Terakhir': [target[-1]], 'Harga Prediksi': [target_fore[0]]})
-                            result = pd.concat([result, app])
-                        except:
-                            pass
-                    result = result.sort_values('Peningkatan (%)', ascending=False)
-                    result = result[0:10]
-                    result = result.set_index([pd.Index([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])])
-                    st.markdown(f"<h4 style='text-align: center; '>Top 10 Stock's Growth Percentage on {sector}</h4>",
-                                unsafe_allow_html=True)
-                    for i in range(10):
-                        result = result.replace([result.iloc[i]["Kode Perusahaan"]], result.iloc[i]["Kode Perusahaan"].replace('.JK', ''))
-                    st.table(result[["Kode Perusahaan","Peningkatan (%)"]])
-                    result = result.reset_index()
+
+                            try:
+                                datumz = yf.download(k, start)
+                                datumz = datumz.to_period('D')
+                                target, target_pred, target_fore, perc = create_models(12, datumz['Close'], k)
+                                target_fore, perc = check_pred(target, target_fore, perc)
+                                app = pd.DataFrame({'Kode Perusahaan': [k], 'Peningkatan (%)': [perc],
+                                                    'Harga Terakhir': [target[-1]], 'Harga Prediksi': [target_fore[0]]})
+                                result = pd.concat([result, app])
+                            except:
+                                pass
+                        result = result.sort_values('Peningkatan (%)', ascending=False)
+                        result = result[0:10]
+                        result = result.set_index([pd.Index([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])])
+                        st.markdown(f"<h4 style='text-align: center; '>Top 10 Stock's Growth Percentage on {sector}</h4>",
+                                    unsafe_allow_html=True)
+                        for i in range(10):
+                            result = result.replace([result.iloc[i]["Kode Perusahaan"]], result.iloc[i]["Kode Perusahaan"].replace('.JK', ''))
+                        st.table(result[["Kode Perusahaan","Peningkatan (%)"]])
+                        result = result.reset_index()
+                    except:
+                        st.error("Try another date", icon="🚨")
+                        st.stop()
 
                 st.markdown(f"<h4 style='text-align: center; '>Stock Prices Forecasting on {sector}</h4>",
                             unsafe_allow_html=True)
