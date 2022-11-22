@@ -406,7 +406,6 @@ if select == "Main":
                     st.table(result[["Kode Perusahaan","Peningkatan (%)"]])
                     result = result.reset_index()
 
-
                 st.markdown(f"<h4 style='text-align: center; '>Stock Prices Forecasting on {sector}</h4>",
                             unsafe_allow_html=True)
                 colz1, colz2 = st.columns([3, 1])
