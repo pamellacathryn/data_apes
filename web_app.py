@@ -331,7 +331,7 @@ if select == "Main":
                     col1, col2 = st.columns([3, 1])
                     start = col2.date_input(
                         "Start Date:",
-                        datetime(2022, 11, 14))
+                        datetime(2022, 11, 1))
                     datumz = yf.download(emiten_jk, datetime(2022, 1, 1))
                     _, ax = plt.subplots()
                     try:
