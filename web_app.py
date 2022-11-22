@@ -401,7 +401,7 @@ if select == "Main":
                     result.index = np.arange(1, len(result) + 1)
                     st.markdown(f"<h4 style='text-align: center; '>Top {len(result)} Stock's Growth Percentage on {sector}</h4>",
                                 unsafe_allow_html=True)
-                    for i in range(10):
+                    for i in range(len(result)):
                         result = result.replace([result.iloc[i]["Kode Perusahaan"]], result.iloc[i]["Kode Perusahaan"].replace('.JK', ''))
                     st.table(result[["Kode Perusahaan","Peningkatan (%)"]])
                     result = result.reset_index()
