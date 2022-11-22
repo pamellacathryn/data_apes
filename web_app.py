@@ -398,8 +398,8 @@ if select == "Main":
                             pass
                     result = result.sort_values('Peningkatan (%)', ascending=False)
                     result = result[0:10]
-                    result = result.set_index([pd.Index([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])])
-                    st.markdown(f"<h4 style='text-align: center; '>Top 10 Stock's Growth Percentage on {sector}</h4>",
+                    result = result.set_index([pd.Index([i for i in range(len(result))])])
+                    st.markdown(f"<h4 style='text-align: center; '>Top {len(result)} Stock's Growth Percentage on {sector}</h4>",
                                 unsafe_allow_html=True)
                     for i in range(10):
                         result = result.replace([result.iloc[i]["Kode Perusahaan"]], result.iloc[i]["Kode Perusahaan"].replace('.JK', ''))
