@@ -418,7 +418,7 @@ if select == "Main":
                     result["Kode Perusahaan"])
                 top_10 = yf.download(result["Kode Perusahaan"].iloc[0], start)["Close"]
                 forecazt = []
-                for i in range(10):
+                for i in range(len(result)):
                     forecazt.append(result[["Harga Prediksi"]].to_numpy()[i][0])
                 for k in result["Kode Perusahaan"]:
                     k = k+'.JK'
@@ -432,7 +432,7 @@ if select == "Main":
                 nama_koloms_baru = []
                 for i in nama_koloms:
                     nama_koloms_baru.append(i + '_Forecast')
-                for i in range(10):
+                for i in range(len(result)):
                     terakhir[i] = forecazt[i]
                 forecast = pd.DataFrame(terakhir).transpose()
                 a = forecast.index
